@@ -2,24 +2,24 @@
 @title[Introduction]
 
 @snap[west headline text-white span-70]
-Rewaresoft Kft<br>*szoftverfejlesztés*
+Rewaresoft<br>*szoftverfejlesztés*
 @snapend
 
 @snap[south-west byline  text-white]
-The Fastest Way From Idea To Presentation.
+Hogyan lesz az ötletből kész szoftver
 @snapend
 
 ---
 @title[Slide Markdown]
 
-### Each slide in this presentation is provided as a *template*.
+### Kik vagyunk
 
 <br><br>
 
-1. Select only the slide templates that you need.
-1. Customize the template _markdown content_.
-1. Optionally, override template _styles_ and _settings_.
-1. Then present and publish with GitPitch @fa[smile-o]
+1. Több mint 20 év fejlesztői tapasztalat
+1. Egyedi webes szoftverek készítése, egyedi igények alapján
+1. Hosszú távú partnerek az informatika minden területén
+1. Az ötlettől a megvalósításon át az üzemeltetésig
 <br><br>
 
 
