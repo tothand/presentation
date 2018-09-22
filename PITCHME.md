@@ -17,8 +17,8 @@ Hogyan lesz az ötletből kész szoftver
 <br><br>
 
 1. Több mint 20 év fejlesztői tapasztalat
-1. Egyedi webes szoftverek készítése, egyedi igények alapján
-1. Hosszú távú partnerek az informatika minden területén
+1. Egyedi igények kiszolgálása
+1. Hosszú távú informatikai partner
 1. Az ötlettől a megvalósításon át az üzemeltetésig
 <br><br>
 
