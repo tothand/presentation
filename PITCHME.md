@@ -24,7 +24,7 @@ Hogyan lesz az ötletből kész szoftver
 
 ---
 @snap[north]
-### Akik minket választottak ###
+Akik minket választottak
 @snapend
 
 @snap[west logoimg]
