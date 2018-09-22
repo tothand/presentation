@@ -23,9 +23,10 @@ Hogyan lesz az ötletből kész szoftver
 <br><br>
 
 ---
+@snap[north]
 ### Akik minket választottak ###
+@snapend
 
-<br><br>
 @snap[west logoimg]
 ![MKB Euroleasing](https://agrarkozosseg.hu/wp-content/uploads/2017/03/partners_mkbeuroleasing.jpg)
 @snapend
