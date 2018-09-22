@@ -22,6 +22,10 @@ Hogyan lesz az ötletből kész szoftver
 1. Az ötlettől a megvalósításon át az üzemeltetésig
 <br><br>
 
+---
+### Akik minket választottak ###
+
+![MKB Euroleasing](https://agrarkozosseg.hu/wp-content/uploads/2017/03/partners_mkbeuroleasing.jpg)
 
 ---
 @title[Tip! Fullscreen]
