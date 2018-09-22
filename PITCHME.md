@@ -28,13 +28,13 @@ Akik minket választottak
 @snapend
 
 @snap[west logoimg]
-![MKB Euroleasing](https://agrarkozosseg.hu/wp-content/uploads/2017/03/partners_mkbeuroleasing.jpg)
+![Műszer Automatika](https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/19417154_1303712286344230_7941920414655938005_o.png?_nc_cat=110&oh=91346ecaddfa18756b6f6b1cda840b16&oe=5C1CD527)
 @snapend
 @snap[midpoint logoimg]
-![Dessewffy](https://www.metubudapest.hu/image/content/dessewffy-david.jpg)
+![MKB Euroleasing](https://agrarkozosseg.hu/wp-content/uploads/2017/03/partners_mkbeuroleasing.jpg)
 @snapend
 @snap[east logoimg]
-![Műszer Automatika](https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/19417154_1303712286344230_7941920414655938005_o.png?_nc_cat=110&oh=91346ecaddfa18756b6f6b1cda840b16&oe=5C1CD527)
+![Dessewffy](https://www.metubudapest.hu/image/content/dessewffy-david.jpg)
 @snapend
 
 
