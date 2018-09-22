@@ -30,14 +30,26 @@ Akik minket választottak
 @snap[west logoimg]
 ![Műszer Automatika](https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/19417154_1303712286344230_7941920414655938005_o.png?_nc_cat=110&oh=91346ecaddfa18756b6f6b1cda840b16&oe=5C1CD527)
 @snapend
+
 @snap[midpoint logoimg]
 ![MKB Euroleasing](https://agrarkozosseg.hu/wp-content/uploads/2017/03/partners_mkbeuroleasing.jpg)
 @snapend
+
 @snap[east logoimg]
 ![Dessewffy](https://www.metubudapest.hu/image/content/dessewffy-david.jpg)
 @snapend
+
+
+@snap[south-west logoimgsmall]
+![Ratiolab](http://ratiolab.com/img/ratiolab-logo_mobile-1467186968.jpg?1481278346)
+@snapend
+
 @snap[south logoimgsmall]
 ![Vasas](https://seeklogo.com/images/V/vasas-sc-logo-7FC5081323-seeklogo.com.png)
+@snapend
+
+@snap[south-east logoimgsmall]
+![Toyota](https://toyotahitel.hu/wp-content/uploads/2017/03/TFS_Logo_Brand_Tag_RGB_Shadow_300ppi_220x291.png)
 @snapend
 
 
