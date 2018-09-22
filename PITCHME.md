@@ -36,7 +36,7 @@ Akik minket választottak
 @snap[east logoimg]
 ![Dessewffy](https://www.metubudapest.hu/image/content/dessewffy-david.jpg)
 @snapend
-@snap[south logoimg]
+@snap[south logoimgsmall]
 ![Vasas](https://seeklogo.com/images/V/vasas-sc-logo-7FC5081323-seeklogo.com.png)
 @snapend
 
